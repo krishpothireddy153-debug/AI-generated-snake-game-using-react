@@ -1,0 +1,6 @@
+{
+  "name": "SynthSnake: AI Music Edition",
+  "description": "A dark neon synthwave Snake game layered with an AI-generated music player. Play the game with arrow keys while listening to cybernetic tunes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
